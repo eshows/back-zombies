@@ -66,7 +66,7 @@ Para que isso seja possível, a API deve atender aos seguintes casos de uso:
 
   1 Àgua e 1 Medicação (1 x 4 + 1 x 2) podem ser trocadas por 6 munições (6 x 1) ou por 2 comidas (2 x 3).
 
-  As trocas em sí não precisam ser armazenadas, maas os itens precisam ser transferidos de um sobrevivente para o outro.
+  As trocas em sí não precisam ser armazenadas, mas os itens precisam ser transferidos de um sobrevivente para o outro.
 
 - **Relatórios**
 
@@ -88,3 +88,13 @@ Para que isso seja possível, a API deve atender aos seguintes casos de uso:
 5. Você precisa escrever pelo menos alguns teses automatizados.
 
 6. A partir da descrição do problema acima, você pode fazer uma solução básica ou adicionar recursos opcionais que não estão descritos. Use seu tempo com sabedoria; A solução ideal absoluta pode levar muito tempo para ser eficaz no apocalipse, por isso você deve encontrar a melhor solução possível que resista ao mínimo tempo e ainda assim demonstrar suas habilidades para provar seu valor.
+
+## Entrega
+
+O projeto deve ser entregue em um dos seguintes formatos:
+- Repositório hospedado (Github, Gitlab, Bitbucket ou similares)
+- Arquivo compactado
+
+Em ambos os casos, deve constar no projeto um arquivo chamado README.md com instruções para a compilação/execução.
+
+Obs.: Não faça fork ou envie pull request com os códigos.
